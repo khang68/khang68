@@ -15,10 +15,9 @@
 <p align="left">
 <a href="https://twitter.com/minhkhangpham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="minhkhangpham" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/khang68" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khang68" height="30" width="40" /></a>
-<a href="https://fb.com/khangsks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khangsks" height="30" width="40" /></a>
+<a href="https://fb.com/khangprodesigner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khangsks" height="30" width="40" /></a>
 <a href="https://instagram.com/khangprodesigner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khangprodesigner" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/khangdesigner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="khangdesigner" height="30" width="40" /></a>
-<a href="/khang68.github.io/html-css-02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="khang68.github.io/html-css-02/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
